@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(208, 238, 252);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: left;
+}
+
+p {
+  font-size: 16px;
+}
+
+table {
+  font-size: small;
+  font-size: 14px;
+}
